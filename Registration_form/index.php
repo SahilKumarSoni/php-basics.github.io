@@ -6,6 +6,7 @@
                 alert('$msg');
             </script>";
     }
+    session_destroy();
 ?>
 
 <!DOCTYPE html>
